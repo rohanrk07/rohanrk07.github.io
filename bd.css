@@ -1,0 +1,40 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.bd-logo img {
+    width : 100px;
+}
+
+.bd-title {
+    font-size: 30px;
+    padding: 0 50px;
+    color: orange;
+}
+
+.bd-hero img {
+    height : 75vh;
+    width: 100%;
+}
+
+.bd-intro{
+    display: flex;
+}
+
+.bd-intro-img {
+    width: 50%;
+}
+
+.bd-intro-img img {
+    width: 100%;
+}
+
+.bd-list{
+    list-style: none;
+    font-size: 18px;
+}
+
+.bd-list li {
+    padding: 5px;
+}
